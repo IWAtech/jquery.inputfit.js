@@ -1,0 +1,27 @@
+{
+	"name": "jquery.inputfit.js",
+	"main": "http://vxsx.github.com/jquery.inputfit.js/",
+	"version": "0.1.0",
+	"homepage": "https://github.com/vxsx/jquery.inputfit.js",
+	"authors": [
+		{
+			"name": "Vadim Sikora",
+			"homepage": "https://github.com/vxsx"
+		},
+		{
+			"name": "IWAtech",
+			"homepage": "https://github.com/IWAtech"
+		}
+	],
+	"description": "Fit value in input",
+	"keywords": [
+		"jquery",
+		"input",
+		"fit",
+		"inputfit"
+	],
+	"dependencies": {
+		"jquery": ">=1.6.2"
+	},
+	"license": "MIT"
+}
